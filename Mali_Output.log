@@ -1,0 +1,13 @@
+﻿{
+    "available":true,
+    "gpu_cur_freq":"600000000",
+    "gpu_min_freq":"200000000",
+    "gpu_max_freq":"800000000",
+    "gpu_available_freqs":"200000000 300000000 400000000 600000000 700000000 800000000",
+    "gpu_governor":"simple_ondemand",
+    "gpu_load":"0@600000000Hz",
+    "gpu_load_percent":0,
+    "gpu_load_freq_hz":600000000,
+    "gpu_activity_score":0.00,
+    "gpu_trans_stat":"     From  :   To\n           : 200000000 300000000 400000000 600000000 700000000 800000000   time(ms)\n  200000000:         0         0         0         0         0         0         0\n  300000000:         0         0         0         0         0         0         0\n  400000000:         0         0         0         0         0         0         0\n* 600000000:         0         0         0         0         0         0         0\n  700000000:         0         0         0         0         0         0         0\n  800000000:         0         0         0         0         0         0         0\nTotal transition : 0"
+}
