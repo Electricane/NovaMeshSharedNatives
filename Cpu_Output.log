@@ -1,0 +1,55 @@
+﻿{
+  "available": true,
+  "configured_processors": 4,
+  "online_processors": 4,
+  "clock_ticks_per_second": 100,
+  "page_size_bytes": 4096,
+  "loadavg_raw": "0.19 0.05 0.01 1/159 10329",
+  "uptime_seconds": 11503.69,
+  "idle_seconds_total": 34601.13,
+  "jiffies_user": 1040506,
+  "jiffies_nice": 7,
+  "jiffies_system": 90592,
+  "jiffies_idle": 3435155,
+  "jiffies_iowait": 4766,
+  "jiffies_irq": 0,
+  "jiffies_softirq": 5879,
+  "jiffies_steal": 0,
+  "jiffies_active": 1136984,
+  "jiffies_total": 4576905,
+  "context_switches": 7130341,
+  "processes_created": 10332,
+  "processes_running": 1,
+  "processes_blocked": 0,
+  "thermal_zone0_c": 30.62,
+  "per_core_native": [
+    {
+      "core": 0,
+      "cur_freq_khz": 1992000,
+      "min_freq_khz": 408000,
+      "max_freq_khz": 1992000,
+      "governor": "ondemand"
+    },
+    {
+      "core": 1,
+      "cur_freq_khz": 1992000,
+      "min_freq_khz": 408000,
+      "max_freq_khz": 1992000,
+      "governor": "ondemand"
+    },
+    {
+      "core": 2,
+      "cur_freq_khz": 1992000,
+      "min_freq_khz": 408000,
+      "max_freq_khz": 1992000,
+      "governor": "ondemand"
+    },
+    {
+      "core": 3,
+      "cur_freq_khz": 1992000,
+      "min_freq_khz": 408000,
+      "max_freq_khz": 1992000,
+      "governor": "ondemand"
+    }
+  ]
+}
