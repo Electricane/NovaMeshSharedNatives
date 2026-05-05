@@ -1,3 +1,5 @@
+package novamesh;
+
 public final class NativeFeature {
     private NativeFeature() {}
 

@@ -1,3 +1,5 @@
+package novamesh;
+
 @NativeTarget(
         name = "maligpustats",
         os = "linux",
